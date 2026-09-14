@@ -33,6 +33,8 @@
   <Project Path="Unity.2D.Tooling.Editor.csproj" />
   <Project Path="Unity.VisualScripting.State.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.001.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.InputSystem.ForUI.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.csproj" />
   <Project Path="Unity.2D.Animation.Runtime.csproj" />
